@@ -1,6 +1,14 @@
 # Hemi Miner Incentivized Testnet
 
-## Install Miner
+![image](https://github.com/user-attachments/assets/996c7d95-8be3-457b-a920-270fc337c6e1)
+> Hemi is a modular protocol for superior scaling, security, and interoperability, powered by Bitcoin and Ethereum.
+ 
+#
+
+* For non-Node participants, you can join  pilot program [here](https://points.absinthe.network/hemi/) : Use my code to Enter: `a8389da2`
+* You can run miner using web browser on windows here: https://pop-miner.hemi.xyz/
+
+## Install Miner on Linux
 **1. Download Binaries**
 ```bash
 wget https://github.com/hemilabs/heminetwork/releases/download/v0.4.3/heminetwork_v0.4.3_linux_amd64.tar.gz
