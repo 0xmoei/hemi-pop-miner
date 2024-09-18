@@ -51,6 +51,7 @@ source ~/.bashrc
 - To return screen `screen -r hemi`
 
 # View your points
-* Currently, the tHEMI token payout serves as an indicator that you are PoP mining correctly. As the testnet evolves, you will have additional functionalities and uses for tHEMI tokens.
-* To view your tHEMI balance, you may need to add the contract address `0x4200000000000000000000000000000000000042` as a "custom token" in your metamask wallet on Hemi Testnet Network.
+* Currently, the tHEMI token payout serves as an indicator that you are PoP mining correctly. As the testnet evolves, you will get tHEMI tokens for each block you min with your Hemi Pop Node
+* To view your tHEMI balance, you may need to add the contract address `0x4200000000000000000000000000000000000042` as a "custom token" in your metamask wallet on Hemi Sepolia Network.
 * You can also import your `private_key` here to check tHEMI balance: https://pop-miner.hemi.xyz/
+* Gaining tHEMI is delayed rn, you can check later
