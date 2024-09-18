@@ -47,6 +47,8 @@ source ~/.bashrc
 ./popmd
 ```
 
+![image](https://github.com/user-attachments/assets/76dc9867-a0b3-4d11-9baf-cd1d5a94f695)
+
 - To minizme screen: `CTRL+A+D`
 - To return screen `screen -r hemi`
 
